@@ -1,0 +1,17 @@
+<Ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="http://www.blizzard.com/wow/ui/">
+	<!-- Base localization -->
+	<Script file="MusicianLooper.base.lua" />
+	<Script file="MusicianLooper.en.lua" />
+	<!-- Additional localization -->
+	<Script file="MusicianLooper.es.lua" />
+	<Script file="MusicianLooper.fr.lua" />
+	<Script file="MusicianLooper.pt.lua" />
+	<Script file="MusicianLooper.de.lua" />
+	<Script file="MusicianLooper.it.lua" />
+	<Script file="MusicianLooper.ru.lua" />
+	<Script file="MusicianLooper.ko.lua" />
+	<Script file="MusicianLooper.zh.lua" />
+	<Script file="MusicianLooper.tw.lua" />
+</Ui>

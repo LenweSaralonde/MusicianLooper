@@ -1,0 +1,17 @@
+## Interface: 100207
+## Title: Musician Looper
+## Author: LenweSaralonde
+## Notes: Looper pedal for Musician
+## Version: 0.1.0
+## RequiredDeps: Musician
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: MusicianLooper_Storage
+
+core\MusicianLooper.lua
+
+constants\MusicianLooper.Constants.lua
+
+locale\locale.xml
+
+ui\MusicianLooperFrame.xml

@@ -1,0 +1,5 @@
+package-as: MusicianLooper
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
