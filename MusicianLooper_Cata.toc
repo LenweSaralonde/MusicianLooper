@@ -2,7 +2,7 @@
 ## Title: Musician Looper
 ## Author: LenweSaralonde
 ## Notes: Looper pedal for Musician
-## Version: 0.1.0
+## Version: 0.1.1
 ## RequiredDeps: Musician
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
