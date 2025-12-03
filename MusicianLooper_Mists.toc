@@ -1,4 +1,4 @@
-## Interface: 50500
+## Interface: 50502
 ## Title: Musician Looper
 ## Author: LenweSaralonde
 ## Notes: Looper pedal for Musician
